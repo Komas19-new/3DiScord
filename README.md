@@ -16,9 +16,11 @@ Download themes [here](https://github.com/cheuble/3DiScord-themes)
 
 ### Credits
 * Fork by [Komas19](https://github.com/komas19-new)
-**Original Version of 3DiScord**
+
+**Original Version of 3DiScord:**
 * UI and port by [cheuble](https://github.com/cheuble)
 * Network features by [Rinnegatamante](https://github.com/Rinnegatamante/) (from lpp3ds) 
+
 **All the original VitaCord staff:**
 * coderx3 (devingDev)
 * Arkanite
